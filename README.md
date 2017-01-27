@@ -1,2 +1,3 @@
 #SendPulse PHP API subscribe
-Simple subscription form using SendPulse PHP API
+Simple email subscription form using SendPulse PHP API
+![subscribe form](https://monosnap.com/file/QbJnlnKltQKPXlEEluKkQtKBw5dbxU.png)
