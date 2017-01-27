@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+file*
+vendor/
+config.php
