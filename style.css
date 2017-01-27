@@ -1,0 +1,34 @@
+body {
+   font-family: sans-serif;
+   -ms-text-size-adjust: 100%;
+   -webkit-text-size-adjust: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+.sp-form {
+    max-width: 300px;
+    margin: 50px auto;
+}
+.sp-form .form-group {
+    margin-bottom: 10px;
+}
+.sp-form .form-group:last-child {
+    margin-top: 20px;
+}
+.sp-form .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 13px;
+    color: #999;
+}
+.sp-form input {
+    font-size: 15px;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+    padding: 4px 6px;
+    width: 100%;
+}
+.sp-form button {
+    font-size: 15px;
+}
