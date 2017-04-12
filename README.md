@@ -1,4 +1,4 @@
-#SendPulse PHP API subscribe
+# SendPulse PHP API subscribe
 
 Simple email subscription form using SendPulse PHP API
 
